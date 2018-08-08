@@ -33,9 +33,9 @@
       document.body.appendChild(div1);      
     }
     
-    var s = document.createElement("script")
-    s.src = "https://rawgit.com/fustyles/webduino/temp/teachable_machine_boilerplate_20180808/build.js";
-    document.getElementsByTagName("head")[0].appendChild(s);
+    // var s = document.createElement("script")
+    // s.src = "https://rawgit.com/fustyles/webduino/temp/teachable_machine_boilerplate_20180808/build.js";
+    // document.getElementsByTagName("head")[0].appendChild(s);
   }
   
   function teachable_machine_proportion(input_property){
